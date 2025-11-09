@@ -9,6 +9,8 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="13Ulica.pl@SD",13 Ulica (1080p)
 http://185.236.229.62:9981/play/a03o
+#EXTINF:-1 tvg-id="BBCBrit.pl@HD",BBC Brit (1080p)
+https://liveovh009.cda.pl/enc116/bbcbrithdraw/stream_0.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@SD",Disney Channel (1080p)
 http://185.236.229.62:9981/play/a07d
 #EXTINF:-1 tvg-id="DisneyJunior.pl@SD",Disney Junior
@@ -36,6 +38,8 @@ https://ddy6new.iosplayer.ru/ddy6/premium428/mono.m3u8
 http://185.236.229.62:9981/play/a02f
 #EXTINF:-1 tvg-id="EWTNPoland.pl@SD",EWTN Poland (1080p)
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FokusTV.pl@HD",Fokus TV (1080p)
+http://188.117.185.140:8504
 #EXTINF:-1 tvg-id="Nickelodeon.pl@SD",Nickelodeon (576p)
 http://185.236.229.62:9981/play/a067
 #EXTINF:-1 tvg-id="PoloTV.pl@SD",Polo TV
@@ -72,6 +76,8 @@ http://stream.herissons.cloud/hls/tvluban.m3u8
 http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
 #EXTINF:-1 tvg-id="TrusoTV.pl@SD",Truso TV (576p) [Not 24/7]
 https://stream.truso.tv/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="TTV.pl@HD",TTV (1080p)
+http://188.117.185.140:8608
 #EXTINF:-1 tvg-id="TV4.pl@SD",TV4 (1080p) [Geo-blocked]
 https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:-1 tvg-id="TV6.pl@SD",TV6 (1080p)
@@ -82,6 +88,8 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8
 #EXTINF:-1 tvg-id="TVKujawy.pl@SD",TV Kujawy (576p) [Not 24/7]
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="TVN.pl@HD",TVN (1080p)
+http://188.117.185.140:8501
 #EXTINF:-1 tvg-id="TVOkazje.pl@SD",TV Okazje (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 #EXTINF:-1 tvg-id="TVPuls.pl@SD",TV Puls (1080p)
@@ -134,6 +142,10 @@ https://cdndai.pl/tvp3szczecinsd/index.m3u8
 https://cdndai.pl/tvp3warszawasd/index.m3u8
 #EXTINF:-1 tvg-id="TVP3Wroclaw.pl@SD",TVP 3 Wrocław (576p) [Geo-blocked]
 https://cdndai.pl/tvp3wroclawsd/index.m3u8
+#EXTINF:-1 tvg-id="TVPKobieta.pl@HD",TVP Kobieta
+http://188.117.185.140:8614
+#EXTINF:-1 tvg-id="TVPNauka.pl@HD",TVP Nauka
+http://188.117.185.140:8613
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD",TVP Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD",TVP Polonia
@@ -148,3 +160,4 @@ https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl@SD",TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
+
